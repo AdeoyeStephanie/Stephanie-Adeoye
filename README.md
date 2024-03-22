@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdeoyeStephanie
 - 👀 I’m interested in coding and web designing
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m a beginner in coding and i'm currently learning Javascript
+- 💞️ I’m a freshman studying Computer science
 - 📫 How to reach me linked-in @ Stephanie Adeoye
 - 😄 Major: Computer Science
 - ⚡ Fun fact: I look younger than my age
